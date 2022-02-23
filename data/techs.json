@@ -7,22 +7,38 @@
             "link": "https://www.javascript.com/"
         },
         {
-            "id": 3,
-            "name": "jQuery",
-            "image": "jquery.png",
-            "link": "https://jquery.com/"
+            "id": 27,
+            "name": "React",
+            "image": "react.png",
+            "link": "https://reactjs.org/"
         },
+
         {
-            "id": 4,
-            "name": "Git",
-            "image": "git.png",
-            "link": "https://git-scm.com"
+            "id": 23,
+            "name": "Django",
+            "image": "django.png",
+            "link": "https://www.djangoproject.com/"
         },
+
         {
-            "id": 5,
-            "name": "Github",
-            "image": "github.png",
-            "link": "https://github.com/"
+            "id": 24,
+            "name": "Python",
+            "image": "python.png",
+            "link": "https://www.python.org/"
+        },
+
+        {
+            "id": 25,
+            "name": "Postman",
+            "image": "Postman.png",
+            "link": "https://www.postman.com/"
+        },
+
+        {
+            "id": 26,
+            "name": "Heroku",
+            "image": "heroku.png",
+            "link": "https://id.heroku.com/login"
         },
         {
             "id": 7,
@@ -34,19 +50,7 @@
             "id": 8,
             "name": "CSS3",
             "image": "css3.png",
-            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
-        },
-        {
-            "id": 10,
-            "name": "Bootstrap",
-            "image": "bootstrap.png",
-            "link": "https://getbootstrap.com/"
-        },
-        {
-            "id": 14,
-            "name": "NPM",
-            "image": "npm.png",
-            "link": "https://www.npmjs.com/"
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
         },
         {
             "id": 15,
@@ -61,12 +65,48 @@
             "link": "https://www.microsoft.com/en-us/sql-server/sql-server-2017"
         },
         {
+            "id": 3,
+            "name": "jQuery",
+            "image": "jquery.png",
+            "link": "https://jquery.com/"
+        },
+        
+        {
+            "id": 10,
+            "name": "Bootstrap",
+            "image": "bootstrap.png",
+            "link": "https://getbootstrap.com/"
+        },
+        {
+            "id": 28,
+            "name": "Material UI",
+            "image": "mui.png",
+            "link": "https://mui.com/"
+        },
+        {
+            "id": 5,
+            "name": "Github",
+            "image": "github.png",
+            "link": "https://github.com/"
+        },
+        {
+            "id": 4,
+            "name": "Git",
+            "image": "git.png",
+            "link": "https://git-scm.com"
+        },
+        {
+            "id": 14,
+            "name": "NPM",
+            "image": "npm.png",
+            "link": "https://www.npmjs.com/"
+        },
+        {
             "id": 17,
             "name": "Visual Studio Code",
             "image": "vsc.png",
             "link": "https://code.visualstudio.com/"
         },
-
         {
             "id": 22,
             "name": "ES lint",
