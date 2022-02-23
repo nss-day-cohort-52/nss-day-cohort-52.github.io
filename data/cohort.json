@@ -10,8 +10,8 @@
             "linkedIn": "https://www.linkedin.com/in/tyler-bowman-b278ab150/",
             "portfolio": "http://www.bowty.tech",
             "email": "bowmant388@gmail.com",
-            "proImg": "TylerBowman.jpg",
-            "funImg": "TylerBowman_Fun.jpg"
+            "proImg": "boy.png",
+            "funImg": "boy.png"
         },
         {
             "id": 7,
@@ -23,8 +23,8 @@
             "linkedIn": "https://www.linkedin.com/in/paul-ellis-110a44149/",
             "portfolio": "http://www.developerellis.com",
             "email": "tynesellis@icloud.com",
-            "proImg": "PaulEllis.jpg",
-            "funImg": "PaulEllis_Fun.jpg"
+            "proImg": "boy.png",
+            "funImg": "boy.png"
         },
         {
             "id": 17,
@@ -36,8 +36,8 @@
             "linkedIn": "https://www.linkedin.com/in/jesse-page/",
             "portfolio": "http://www.thepagepage.net",
             "email": "jesse.page@me.com",
-            "proImg": "JessePage.jpg",
-            "funImg": "JessePage_Fun.jpg"
+            "proImg": "girl.png",
+            "funImg": "girl.png"
         },
         {
             "id": 9,
@@ -49,8 +49,8 @@
             "linkedIn": "https://www.linkedin.com/in/lissagoforth-softwaredeveloper/",
             "portfolio": "https://lissagoforth.github.io/",
             "email": "lissagoforthsoftwaredev@gmail.com",
-            "proImg": "LissaGoforth.jpg",
-            "funImg": "LissaGoforth_Fun.jpg"
+            "proImg": "girl.png",
+            "funImg": "girl.png"
         },
         {
             "id": 11,
@@ -62,8 +62,8 @@
             "linkedIn": "https://www.linkedin.com/in/gregmlawrence",
             "portfolio": "https://www.greglawrence.me",
             "email": "gregaudio@gmail.com",
-            "proImg": "GregLawrence.jpg",
-            "funImg": "GregLawrence_Fun.jpg"
+            "proImg": "boy.png",
+            "funImg": "boy.png"
         },
         {
             "id": 16,
@@ -75,8 +75,8 @@
             "linkedIn": "https://www.linkedin.com/in/krnorris65",
             "portfolio": "http://www.kristen-norris.com",
             "email": "krnorris65@gmail.com",
-            "proImg": "KristenNorris.jpg",
-            "funImg": "KristenNorris_Fun.jpg"
+            "proImg": "girl.png",
+            "funImg": "girl.png"
         }
     ]
 }
