@@ -11,7 +11,7 @@
             "portfolio": "http://www.bowty.tech",
             "email": "bowmant388@gmail.com",
             "proImg": "boy.png",
-            "funImg": "boy.png"
+            "funImg": "boy_fun.png"
         },
         {
             "id": 7,
@@ -24,7 +24,7 @@
             "portfolio": "http://www.developerellis.com",
             "email": "tynesellis@icloud.com",
             "proImg": "boy.png",
-            "funImg": "boy.png"
+            "funImg": "boy_fun.png"
         },
         {
             "id": 17,
@@ -37,7 +37,7 @@
             "portfolio": "http://www.thepagepage.net",
             "email": "jesse.page@me.com",
             "proImg": "girl.png",
-            "funImg": "girl.png"
+            "funImg": "girl_fun.png"
         },
         {
             "id": 9,
@@ -50,7 +50,7 @@
             "portfolio": "https://lissagoforth.github.io/",
             "email": "lissagoforthsoftwaredev@gmail.com",
             "proImg": "girl.png",
-            "funImg": "girl.png"
+            "funImg": "girl_fun.png"
         },
         {
             "id": 11,
@@ -63,7 +63,7 @@
             "portfolio": "https://www.greglawrence.me",
             "email": "gregaudio@gmail.com",
             "proImg": "boy.png",
-            "funImg": "boy.png"
+            "funImg": "boy_fun.png"
         },
         {
             "id": 16,
@@ -76,7 +76,7 @@
             "portfolio": "http://www.kristen-norris.com",
             "email": "krnorris65@gmail.com",
             "proImg": "girl.png",
-            "funImg": "girl.png"
+            "funImg": "girl_fun.png"
         }
     ]
 }
