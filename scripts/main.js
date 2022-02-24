@@ -13,7 +13,14 @@ $.ajax({
 
 function cohortMembers(list) {
   let data = list.cohort;
-  data.forEach(function (item) {
+
+  let randomData = data.sort((a,b) => {
+    a = Math.random() 
+    b = Math.random()
+    return a - b
+  })
+
+  randomData.forEach(function (item) {
     let studentContact = `<div class="studentContact">`
     //if student doesn't have a portfolio site then don't display the icon
     if (item.portfolio != null) {
