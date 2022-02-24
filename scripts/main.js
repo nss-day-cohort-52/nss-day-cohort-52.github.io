@@ -1,6 +1,6 @@
 // initialize the tool-tip plugin for Bootstrap4
 $(function () {
-    $('[data-toggle="tooltip"]').tooltip()
+  $('[data-toggle="tooltip"]').tooltip()
 })
 
 
@@ -14,8 +14,8 @@ $.ajax({
 function cohortMembers(list) {
   let data = list.cohort;
 
-  let randomData = data.sort((a,b) => {
-    a = Math.random() 
+  let randomData = data.sort((a, b) => {
+    a = Math.random()
     b = Math.random()
     return a - b
   })
@@ -63,16 +63,16 @@ function cohortMembers(list) {
     studentInfo += studentContact
 
     //if a student doesn't have a bio, then the learn more button doesn't appear and a modal isn't created
-    if(item.bio != null){
+    if (item.bio != null) {
 
-    studentInfo += `
+      studentInfo += `
             <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
            Learn More!
           </button></center>
           </div>
         </div>`
-    //modal info
-    studentInfo +=`
+      //modal info
+      studentInfo += `
         <div class="modal fade" id="cohortMember${item.id}" tabindex="-1" role="dialog" aria-labelledby="cohortMember${item.id}Label" aria-hidden="true">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
@@ -83,14 +83,18 @@ function cohortMembers(list) {
               </button>
             </div>
             <div class="modal-body">
-            <center><img src="images/classmates/${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
-
             `
 
-    studentInfo += studentContact
+      if (item.funImg !== null) {
+        studentInfo += `
+            <center><img src="images/classmates/${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
+            `
+      }
+
+      studentInfo += studentContact
 
 
-    studentInfo += `
+      studentInfo += `
       
     ${item.bio}
     </div>

@@ -57,13 +57,13 @@
             "firstName": "Sherwin",
             "lastName": "Vargas",
             "reelThemIn": "\"Should have burned the place down when I had the chance.\" - Michael Scott",
-            "bio": "https://www.linkedin.com/in/sherwinvargas/",
+            "bio": null,
             "github": "https://github.com/sherwin025",
             "linkedIn": "https://www.linkedin.com/in/sherwinvargas/",
             "portfolio": "sherwin025.github.io",
             "email": "svargas025@gmail.com",
             "proImg": "Vargas_Sherwin.jpeg",
-            "funImg": "boy_fun.png"
+            "funImg": null
         },
         {
             "id": 6,
@@ -89,7 +89,7 @@
             "portfolio": "https://charleslong13.github.io/personal_site/#",
             "email": "charleslong13@icloud.com",
             "proImg": "Long_Charlie.jpg",
-            "funImg": "boy_fun.png"
+            "funImg": null
         },
         {
             "id": 8,
@@ -99,7 +99,7 @@
             "bio": "<p>Aviva is a Software Developer in the Technology domain looking for a development position. Supportive and enthusiastic team player dedicated to efficiently resolving project issues. Ability and willingness to innovate and learn new technologies, quick learner passionate about development.</p>",
             "github": "https://github.com/auntviv",
             "linkedIn": "https://www.linkedin.com/in/avivamondesir/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "aviva.mondesir@gmail.com",
             "proImg": "Mondesir_Aviva.jpg",
             "funImg": "Mondesir_Aviva_Fun.jpg"
@@ -112,7 +112,7 @@
             "bio": "<p>I always wanted to learn how to code and was finally presented with an opportunity to do so with my current company and I was not disappointed. I've loved every minute of my time at NSS and will take these skills forward into my apprenticeship at Asurion. Learning Full-Stack development has been so much fun and I can't wait to be able to use these talents and information to create things. </p>",
             "github": "https://github.com/FylthyPlayz",
             "linkedIn": "https://www.linkedin.com/in/jacobcook43/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "jacob_cook_football@yahoo.com",
             "proImg": "Cook_Jacob.jpg",
             "funImg": "Cook_Jacob_Fun.jpg"
@@ -138,10 +138,10 @@
             "bio": "<p>Technology is life. Coffee is fuel. #promotecybersecurity</p>",
             "github": "https://github.com/JMR-dev",
             "linkedIn": "https://www.linkedin.com/in/jasonmichaelross/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "jason.ross841@outlook.com",
             "proImg": "boy.png",
-            "funImg": "boy_fun.png"
+            "funImg": null
         },
         {
             "id": 12,
@@ -151,7 +151,7 @@
             "bio": "<p>Since playing with computers and GameBoy emulators in 5th Grade, my software journey eventually led me here to NSS in 2021. It's been an incredible journey so far, and I can't wait to see what's next in this wide world of technology!</p>",
             "github": "https://github.com/AshHimura",
             "linkedIn": "https://www.linkedin.com/in/chris-mccrary/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "chris.mccrary20@gmail.com",
             "proImg": "McCrary_Chris.jpeg",
             "funImg": "Mccrary_Chris_Fun.jpeg"
@@ -164,7 +164,7 @@
             "bio": "<p>Music producer turned software developer with a passion for technology, wellness, and just about anything related to audio.</p>",
             "github": "https://github.com/luciidlou",
             "linkedIn": "https://www.linkedin.com/in/alexjlewis1/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "lewisale96@gmail.com",
             "proImg": "Lewis_Alex.jpg",
             "funImg": "Lewis_Alex_Fun.jpg"
@@ -177,7 +177,7 @@
             "bio": "<p>Lover of books turned lover of code. I've been fascinated by manipulating web pages since Myspace. I'm glad Asurion gave me the chance to follow this journey. </p>",
             "github": "https://github.com/keosha-w",
             "linkedIn": "https://www.linkedin.com/in/keosha-w/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "keosha.watkins@asurion.com",
             "proImg": "Watkins_Keosha.png",
             "funImg": "Watkins_Keosha_Fun.jpeg"
@@ -190,7 +190,7 @@
             "bio": "<p>After working solely in the Automotive industry and as a skilled laborer,  I decided to change my career and Software Development seemed like the perfect path for me. I love the problem solving, creativity, and team style work associated with it. Some of my Hobbies include Rock Climbing, Fly Fishing, and  Photography.  Reach out through my Personal Page, Email, or LinkedIn if you wanna chat!</p>",
             "github": "https://github.com/jkunsman76",
             "linkedIn": "https://www.linkedin.com/in/jkunsman2021/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "jkoonman@gmail.com",
             "proImg": "Kunsman_Jake.png",
             "funImg": "Kunsman_jake_Fun.png"
@@ -206,20 +206,20 @@
             "portfolio": "https://jubjub422.github.io/PersonalWebsite/",
             "email": "ross.stovenour@gmail.com",
             "proImg": "boy.png",
-            "funImg": "boy_fun.png"
+            "funImg": null
         },
         {
             "id": 17,
             "firstName": "Collin",
             "lastName": "Smith",
             "reelThemIn": "\"I have no special talents. I am only passionately curious.\" - Albert Einstein",
-            "bio": "<p>Software Developer </p>",
+            "bio": null,
             "github": "github.com/collinsmith9",
             "linkedIn": "www.LinkedIn.com/in/collin-smith-284473223/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "collinrun2@gmail.com",
             "proImg": "Smith_Collin.jpeg",
-            "funImg": "boy_fun.png"
+            "funImg": null
         },
         {
             "id": 18,
@@ -229,7 +229,7 @@
             "bio": "<p>From Rochester, NY currently living in Charlotte, NC. Living every day like the unicorn I am and coding along the way!</p>",
             "github": "https://github.com/ChasityBrown",
             "linkedIn": "https://www.linkedin.com/in/chasity-brown/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "chasity.brown@asurion.com",
             "proImg": "Brown_Chasity.jpg",
             "funImg": "Brown_Chasity_Fun.jpg"
@@ -242,10 +242,10 @@
             "bio": "<p>Gamer and dungeons and dragons fanatic who decided to get into coding to make those two easier, and then discovered they were a coding fanatic as well</p>",
             "github": "github.com/dervalanana",
             "linkedIn": "linkedin.com/in/sean-derevjanik-97ab8b78",
-            "portfolio": "",
-            "email": "sean.derevjanik@gmai.com",
+            "portfolio": null,
+            "email": "sean.derevjanik@gmail.com",
             "proImg": "Derevjanik_Sean.jpg",
-            "funImg": "boy_fun.png"
+            "funImg": null
         },
         {
             "id": 20,
@@ -255,7 +255,7 @@
             "bio": "<p>Veteran turned Software Developer </p>",
             "github": "https://github.com/gcruz63",
             "linkedIn": "www.linkedin.com/in/george-cruz-gc3",
-            "portfolio": "",
+            "portfolio": null,
             "email": "gcruzthethird@gmail.com",
             "proImg": "Cruz_George.jpg",
             "funImg": "Cruz_George_Fun.jpg"
@@ -264,11 +264,11 @@
             "id": 21,
             "firstName": "Ashley",
             "lastName": "Dickey",
-            "reelThemIn": "",
-            "bio": "<p>developer</p>",
+            "reelThemIn": null,
+            "bio": null,
             "github": "www.github.com/anichole93",
             "linkedIn": "www.linkedin.com/in/anichole",
-            "portfolio": "",
+            "portfolio": null,
             "email": "adickey93@gmail.com",
             "proImg": "girl.png",
             "funImg": "girl_fun.png"
@@ -281,10 +281,10 @@
             "bio": "<p>I'm a software developer with strong problem solving skills. I enjoy the challenges of new projects and I love working in a team setting as well as independently. While I am not practicing Python or React I love to spend time exploring nature and reading books. Aside from programming, my main passion is films and fiction novels.</p>",
             "github": "https://github.com/Jacob-Folley",
             "linkedIn": "https://www.linkedin.com/in/jacobfolley/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "jakebfolley@gmail.com",
             "proImg": "Folley_Jacob.JPG",
-            "funImg": "boy_fun.png"
+            "funImg": null
         },
         {
             "id": 23,
@@ -294,7 +294,7 @@
             "bio": "<p>Borne from the dusty fields of northeastern Colorado, I have lived a wild life. I ventured off one week after high school to start a five-year enlistment in the U.S. Marine Corps. In the Marines, I worked as an aviation electrician on CH-53E helicopters. This journey took me to some amazing places, including Kosovo, Bahrain, and eventually Iraq. After completing my enlistment, for which I received an honorable discharge, I returned to Colorado to get a BA in broadcast journalism. Soon after graduation, I learned journalism wasn't my chosen field, nor was being a chef after a year of culinary arts school. I dabbled as an entrepreneur, liquor store manager, and finally wound up in insurance. I love to learn, and obtained numerous insurance industry certifications as well as an MBA with a concentration in IT Project Management. Needing a change of scenery, I took a chance by moving to Nashville nearly three years ago, and landed at Asurion. Still in love with technology, I jumped at the chance to become a software developer through the company's apprenticeship program. I have learned a ton through NSS, and have had just enough time to nearly complete an MS in software design and programming. Everything has brought me to this point, and I firmly believe that software development IS my chosen field.</p><p>When not working or hitting the books, I love to spend time with my wife and our three dogs. I'm a big sci-fi and marvel geek, and eagerly look forward to the next great movie or bingeable TV series. I enjoy cooking, going to craft breweries, and spending time with friends. I also participate in axe throwing leagues and tournaments in Clarksville and Nashville. Axe throwing is an amazingly supportive community, and the highlight of the week for me. I also deeply enjoy making people laugh, dropping trivia nuggets on the unsuspecting, and suggesting beer/wine pairings for anyone's dinner plans. This is a very exciting time for me, and I'm eager to see where this road leads. </p>",
             "github": "https://github.com/andy-eilers",
             "linkedIn": "https://www.linkedin.com/in/andrew-eilers-mba/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "a_eilers35@outlook.com",
             "proImg": "Eilers_Andy.png",
             "funImg": "Eilers_Andy_Fun.png"
