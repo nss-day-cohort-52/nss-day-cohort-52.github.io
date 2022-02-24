@@ -97,10 +97,10 @@ main {
     background: white;
 }
 
-.col-sm-2.technologies{
+.technologies{
     border: none;
     border-radius: none;
-    box-shadow: none;
+    box-shadow: none
 }
 
 .technos, .words{
@@ -111,8 +111,8 @@ main {
 }
 
 .techs{
-    width: 70px;
-    margin: 20px 0px;
+    width: 90px;
+    margin: 20px 30px;
   }
 
 .words{
@@ -250,4 +250,9 @@ button{
         padding-right: none;
       }
 
+      .techs{
+        width: 80px;
+        margin: 20px 10px;
+      }
+    
 }
