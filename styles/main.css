@@ -5,7 +5,7 @@ p {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
+    background: url("../images/C52Background.png") fixed no-repeat;
     background-size: 100%;
     background-color: black;
 }
@@ -15,6 +15,10 @@ blockquote{
     margin-right: 40px;
     background-color: #ddd;
     padding: 2em;
+}
+
+.cohort {
+    color: white;
 }
 
 .navbar{
@@ -37,9 +41,9 @@ blockquote{
 }
 
 #jumbheader{
-    box-shadow: 2px 2px 2px rgb(167, 166, 166);
+    box-shadow: 2px 2px 2px #1D1E1E;
     background-color: #238193!important;
-    color: lightgray;
+    color: white;
 
 }
 .header-text{
