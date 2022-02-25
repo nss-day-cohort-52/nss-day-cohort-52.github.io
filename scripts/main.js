@@ -54,6 +54,7 @@ function cohortMembers(list) {
 
     let studentInfo = `<div class="col-md-3 cohortMems">
           <img class="card-img-top" src="images/classmates/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
+          ${item.hired ? `<img class='hired' src='images/Hired.png' alt='hired' />` : ""}
           <div class="card-body">
             <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
     //if student didn't provide a reelthemin quote then nothing is displayed
@@ -111,6 +112,7 @@ function cohortMembers(list) {
         </div>
         `
     }
+
     document.getElementById("cohort").innerHTML += studentInfo;
 
   });

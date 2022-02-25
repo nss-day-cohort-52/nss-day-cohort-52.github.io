@@ -310,3 +310,10 @@ button{
 
    
 }
+
+.hired {
+    max-height: 4rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
