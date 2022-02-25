@@ -34,7 +34,7 @@
             "bio": "<p>After 10 years in parish ministry and 23 years as an Air Force chaplain, I retired and moved from D.C. to the hills of Tennessee to sit on my rocker.  That got old fast, so now I'm off my rocker.  I'm pursuing a new passion of coding and web development. Except when my sweet new granddaughter Olivia comes to visit. Then it's back to the rocker.  Some say I rock.</p>",
             "github": "https://github.com/kevinlockett",
             "linkedIn": "https://www.linkedin.com/in/kevin-lockett",
-            "portfolio": "lockett.io",
+            "portfolio": "http://www.lockett.io",
             "email": "klockett79@gmail.com",
             "proImg": "Lockett_Kevin.png",
             "funImg": "Lockett_Kevin_Fun.jpg"
@@ -46,7 +46,7 @@
             "reelThemIn": "My wedding day, the birth of my son, and my first pull request - in no particular order. ",
             "bio": "css | html | javascript | react | python | django | github | procreate | problem solver | communicator | associates in fine art-er | painter | set decorator | pinstriper | vintage obsessor | texas two-stepper | italian food lover | antiquer | software developer!",
             "github": "https://github.com/shelbyrossi",
-            "linkedIn": "www.linkedin.com/in/rossishelbyrae",
+            "linkedIn": "https://www.linkedin.com/in/rossishelbyrae",
             "portfolio": "https://shelbyrossi.github.io/shelbyrossi",
             "email": "rossishelbyrae@gmail.com",
             "proImg": "Rossi_Shelby.jpg",
@@ -141,7 +141,7 @@
             "portfolio": null,
             "email": "jason.ross841@outlook.com",
             "proImg": "boy.png",
-            "funImg": null
+            "funImg": "boy_fun.png"
         },
         {
             "id": 12,
@@ -206,7 +206,7 @@
             "portfolio": "https://jubjub422.github.io/PersonalWebsite/",
             "email": "ross.stovenour@gmail.com",
             "proImg": "boy.png",
-            "funImg": null
+            "funImg": "boy_fun.png"
         },
         {
             "id": 17,
@@ -214,8 +214,8 @@
             "lastName": "Smith",
             "reelThemIn": "\"I have no special talents. I am only passionately curious.\" - Albert Einstein",
             "bio": null,
-            "github": "github.com/collinsmith9",
-            "linkedIn": "www.LinkedIn.com/in/collin-smith-284473223/",
+            "github": "https://github.com/collinsmith9",
+            "linkedIn": "https://www.LinkedIn.com/in/collin-smith-284473223/",
             "portfolio": null,
             "email": "collinrun2@gmail.com",
             "proImg": "Smith_Collin.jpeg",
@@ -240,8 +240,8 @@
             "lastName": "Derevjanik",
             "reelThemIn": "It may be hopeless, but that doesn't mean its not worth trying",
             "bio": "<p>Gamer and dungeons and dragons fanatic who decided to get into coding to make those two easier, and then discovered they were a coding fanatic as well</p>",
-            "github": "github.com/dervalanana",
-            "linkedIn": "linkedin.com/in/sean-derevjanik-97ab8b78",
+            "github": "https://github.com/dervalanana",
+            "linkedIn": "https://www.linkedin.com/in/sean-derevjanik-97ab8b78",
             "portfolio": null,
             "email": "sean.derevjanik@gmail.com",
             "proImg": "Derevjanik_Sean.jpg",
@@ -254,7 +254,7 @@
             "reelThemIn": "false motivation leads to real motivation",
             "bio": "<p>Veteran turned Software Developer </p>",
             "github": "https://github.com/gcruz63",
-            "linkedIn": "www.linkedin.com/in/george-cruz-gc3",
+            "linkedIn": "https://www.linkedin.com/in/george-cruz-gc3",
             "portfolio": null,
             "email": "gcruzthethird@gmail.com",
             "proImg": "Cruz_George.jpg",
@@ -264,11 +264,11 @@
             "id": 21,
             "firstName": "Ashley",
             "lastName": "Dickey",
-            "reelThemIn": null,
-            "bio": null,
-            "github": "www.github.com/anichole93",
-            "linkedIn": "www.linkedin.com/in/anichole",
-            "portfolio": null,
+            "reelThemIn": "compiled with warnings",
+            "bio": "software developer",
+            "github": "https://www.github.com/anichole93",
+            "linkedIn": "https://www.linkedin.com/in/anichole",
+            "portfolio": "https://anichole.github.io",
             "email": "adickey93@gmail.com",
             "proImg": "girl.png",
             "funImg": "girl_fun.png"
