@@ -11,7 +11,8 @@
             "portfolio": "https://melissacfox.github.io",
             "email": "melissa.caitlin.fox@gmail.com",
             "proImg": "Fox_Melissa.jpg",
-            "funImg": "Fox_Melissa_Fun.jpg"
+            "funImg": "Fox_Melissa_Fun.jpg",
+            "hired": false
         },
         {
             "id": 2,
@@ -24,7 +25,8 @@
             "portfolio": "https://ldimbe20.github.io/Lauren-Dimberg-Site/",
             "email": "ldimbe20@gmail.com",
             "proImg": "Dimberg_Lauren.jpg",
-            "funImg": "Dimberg_Lauren_Fun.jpg"
+            "funImg": "Dimberg_Lauren_Fun.jpg",
+            "hired": false
         },
         {
             "id": 3,
@@ -37,7 +39,8 @@
             "portfolio": "http://www.lockett.io",
             "email": "klockett79@gmail.com",
             "proImg": "Lockett_Kevin.png",
-            "funImg": "Lockett_Kevin_Fun.jpg"
+            "funImg": "Lockett_Kevin_Fun.jpg",
+            "hired": false
         },
         {
             "id": 4,
@@ -50,7 +53,8 @@
             "portfolio": "https://shelbyrossi.github.io/shelbyrossi",
             "email": "rossishelbyrae@gmail.com",
             "proImg": "Rossi_Shelby.jpg",
-            "funImg": "Rossi_Shelby_Fun.jpg"
+            "funImg": "Rossi_Shelby_Fun.jpg",
+            "hired": false
         },
         {
             "id": 5,
@@ -63,7 +67,8 @@
             "portfolio": "https://sherwin025.github.io",
             "email": "svargas025@gmail.com",
             "proImg": "Vargas_Sherwin.jpeg",
-            "funImg": "Vargas_Sherwin_Fun.jpeg"
+            "funImg": "Vargas_Sherwin_Fun.jpeg",
+            "hired": false
         },
         {
             "id": 6,
@@ -76,7 +81,8 @@
             "portfolio": "https://leahdaniel.github.io/",
             "email": "leah.daniel1997@gmail.com",
             "proImg": "Daniel_Leah.jpeg",
-            "funImg": "Daniel_Leah_Fun.jpeg"
+            "funImg": "Daniel_Leah_Fun.jpeg",
+            "hired": false
         },
         {
             "id": 7,
@@ -89,7 +95,8 @@
             "portfolio": "https://charleslong13.github.io/personal_site/#",
             "email": "charleslong13@icloud.com",
             "proImg": "Long_Charlie.jpg",
-            "funImg": null
+            "funImg": null,
+            "hired": false
         },
         {
             "id": 8,
@@ -102,7 +109,8 @@
             "portfolio": null,
             "email": "aviva.mondesir@gmail.com",
             "proImg": "Mondesir_Aviva.jpg",
-            "funImg": "Mondesir_Aviva_Fun.jpg"
+            "funImg": "Mondesir_Aviva_Fun.jpg",
+            "hired": false
         },
         {
             "id": 9,
@@ -115,7 +123,8 @@
             "portfolio": null,
             "email": "jacob_cook_football@yahoo.com",
             "proImg": "Cook_Jacob.jpg",
-            "funImg": "Cook_Jacob_Fun.jpg"
+            "funImg": "Cook_Jacob_Fun.jpg",
+            "hired": true
         },
         {
             "id": 10,
@@ -128,7 +137,8 @@
             "portfolio": "https://lacizeidler.github.io/laci_zeidler/",
             "email": "laci.zeidler@gmail.com",
             "proImg": "Zeidler_Laci.jpeg",
-            "funImg": "Zeidler_Laci_Fun.png"
+            "funImg": "Zeidler_Laci_Fun.png",
+            "hired": false
         },
         {
             "id": 11,
@@ -141,7 +151,8 @@
             "portfolio": null,
             "email": "jason.ross841@outlook.com",
             "proImg": "boy.png",
-            "funImg": "boy_fun.png"
+            "funImg": "boy_fun.png",
+            "hired": true
         },
         {
             "id": 12,
@@ -154,7 +165,8 @@
             "portfolio": null,
             "email": "chris.mccrary20@gmail.com",
             "proImg": "McCrary_Chris.jpeg",
-            "funImg": "Mccrary_Chris_Fun.jpeg"
+            "funImg": "Mccrary_Chris_Fun.jpeg",
+            "hired": true
         },
         {
             "id": 13,
@@ -167,7 +179,8 @@
             "portfolio": "https://luciidlou.github.io/",
             "email": "lewisale96@gmail.com",
             "proImg": "Lewis_Alex.jpg",
-            "funImg": "Lewis_Alex_Fun.jpg"
+            "funImg": "Lewis_Alex_Fun.jpg",
+            "hired": false
         },
         {
             "id": 14,
@@ -180,7 +193,8 @@
             "portfolio": null,
             "email": "keosha.watkins@asurion.com",
             "proImg": "Watkins_Keosha.png",
-            "funImg": "Watkins_Keosha_Fun.jpeg"
+            "funImg": "Watkins_Keosha_Fun.jpeg",
+            "hired": true
         },
         {
             "id": 15,
@@ -193,7 +207,8 @@
             "portfolio": "https://jkunsman76.github.io/",
             "email": "jkoonman@gmail.com",
             "proImg": "Kunsman_Jake.png",
-            "funImg": "Kunsman_jake_Fun.png"
+            "funImg": "Kunsman_jake_Fun.png",
+            "hired": false
         },
         {
             "id": 16,
@@ -206,7 +221,8 @@
             "portfolio": "https://jubjub422.github.io/PersonalWebsite/",
             "email": "ross.stovenour@gmail.com",
             "proImg": "boy.png",
-            "funImg": "boy_fun.png"
+            "funImg": "boy_fun.png",
+            "hired": false
         },
         {
             "id": 17,
@@ -219,7 +235,8 @@
             "portfolio": null,
             "email": "collinrun2@gmail.com",
             "proImg": "Smith_Collin.jpeg",
-            "funImg": null
+            "funImg": null,
+            "hired": false
         },
         {
             "id": 18,
@@ -232,7 +249,8 @@
             "portfolio": null,
             "email": "chasity.brown@asurion.com",
             "proImg": "Brown_Chasity.jpg",
-            "funImg": "Brown_Chasity_Fun.jpg"
+            "funImg": "Brown_Chasity_Fun.jpg",
+            "hired": true
         },
         {
             "id": 19,
@@ -245,7 +263,8 @@
             "portfolio": null,
             "email": "sean.derevjanik@gmail.com",
             "proImg": "Derevjanik_Sean.jpg",
-            "funImg": null
+            "funImg": null,
+            "hired": true
         },
         {
             "id": 20,
@@ -258,7 +277,8 @@
             "portfolio": "http://gcruz63.github.io",
             "email": "gcruzthethird@gmail.com",
             "proImg": "Cruz_George.jpg",
-            "funImg": "Cruz_George_Fun.jpg"
+            "funImg": "Cruz_George_Fun.jpg",
+            "hired": false
         },
         {
             "id": 21,
@@ -271,7 +291,8 @@
             "portfolio": "https://anichole93.github.io",
             "email": "adickey93@gmail.com",
             "proImg": "Dickey_Ashley.jpg",
-            "funImg": null
+            "funImg": null,
+            "hired": false
         },
         {
             "id": 22,
@@ -284,7 +305,8 @@
             "portfolio": null,
             "email": "jakebfolley@gmail.com",
             "proImg": "Folley_Jacob.JPG",
-            "funImg": null
+            "funImg": null,
+            "hired": false
         },
         {
             "id": 23,
@@ -297,7 +319,8 @@
             "portfolio": null,
             "email": "a_eilers35@outlook.com",
             "proImg": "Eilers_Andy.png",
-            "funImg": "Eilers_Andy_Fun.png"
+            "funImg": "Eilers_Andy_Fun.png",
+            "hired": true
         },
         {
             "id": 24,
@@ -310,7 +333,8 @@
             "portfolio": "https://joemason.dev/",
             "email": "a_eilers35@outlook.com",
             "proImg": "Mason_Joe.JPEG",
-            "funImg": "Mason_Joe_Fun.jpg"
+            "funImg": "Mason_Joe_Fun.jpg",
+            "hired": false
         }
     ]
 }
