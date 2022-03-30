@@ -12,7 +12,7 @@
             "email": "melissa.caitlin.fox@gmail.com",
             "proImg": "Fox_Melissa.jpg",
             "funImg": "Fox_Melissa_Fun.jpg",
-            "hired": false
+            "hired": true
         },
         {
             "id": 2,
@@ -82,7 +82,7 @@
             "email": "leah.daniel1997@gmail.com",
             "proImg": "Daniel_Leah.jpeg",
             "funImg": "Daniel_Leah_Fun.jpeg",
-            "hired": false
+            "hired": true
         },
         {
             "id": 7,
@@ -138,7 +138,7 @@
             "email": "laci.zeidler@gmail.com",
             "proImg": "Zeidler_Laci.jpeg",
             "funImg": "Zeidler_Laci_Fun.png",
-            "hired": false
+            "hired": true
         },
         {
             "id": 11,
@@ -292,7 +292,7 @@
             "email": "adickey93@gmail.com",
             "proImg": "Dickey_Ashley.jpg",
             "funImg": null,
-            "hired": false
+            "hired": true
         },
         {
             "id": 22,
